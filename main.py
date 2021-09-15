@@ -10,4 +10,4 @@ print("Activity: " + str(activity))
 print("People needed: " + str(peopleNeeded))
 print("Price: " + str(cost))
 print("Type of activity: " + str(typeO))
-#The price may not be accurate but you can complete a task with no cost if you want, just keep clicking run until the price is 0
+#The price may not be accurate but you can complete a task with no cost if you want, just keep clicking run until the price is 0 
